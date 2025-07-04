@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>GreenBERT: Green Computing for Automated CVSS Scoring</h1>
+<h1>GreenVulBERT: Green Computing for Automated CVSS Scoring</h1>
 
 <p>This repository contains the code implementation of <strong>GreenBERT</strong>, a lightweight and energy-efficient Transformer-based framework for automated software vulnerability scoring, as presented in our paper:</p>
 
